@@ -49,6 +49,7 @@ def extract_eventId(driver):
     )
     cookies_element.click()
 
+    # !!! HARDCODED NUMBER OF REPORTS TO DOWNLOAD !!!
     num_reports = 2
 
     try: 
