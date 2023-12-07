@@ -141,4 +141,9 @@ driver.quit()
 # extract tabular information
 tabula_extraction()
 
-        
+
+# Other lasting issues:
+# - delete downloaded reports and csvs after extraction
+# - change num of reports to accept user input
+# - make table detection broader
+# - make extraction nicer
